@@ -1,0 +1,175 @@
+/home/vinicius/Área de Trabalho/RSM/bin/Debug/net5.0/appsettings.Development.json
+/home/vinicius/Área de Trabalho/RSM/bin/Debug/net5.0/appsettings.json
+/home/vinicius/Área de Trabalho/RSM/bin/Debug/net5.0/RSM
+/home/vinicius/Área de Trabalho/RSM/bin/Debug/net5.0/RSM.deps.json
+/home/vinicius/Área de Trabalho/RSM/bin/Debug/net5.0/RSM.runtimeconfig.json
+/home/vinicius/Área de Trabalho/RSM/bin/Debug/net5.0/RSM.runtimeconfig.dev.json
+/home/vinicius/Área de Trabalho/RSM/bin/Debug/net5.0/RSM.dll
+/home/vinicius/Área de Trabalho/RSM/bin/Debug/net5.0/ref/RSM.dll
+/home/vinicius/Área de Trabalho/RSM/bin/Debug/net5.0/RSM.pdb
+/home/vinicius/Área de Trabalho/RSM/bin/Debug/net5.0/RSM.Views.dll
+/home/vinicius/Área de Trabalho/RSM/bin/Debug/net5.0/RSM.Views.pdb
+/home/vinicius/Área de Trabalho/RSM/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/RSM.csproj.AssemblyReference.cache
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/RSM.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/RSM.AssemblyInfoInputs.cache
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/RSM.AssemblyInfo.cs
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/RSM.csproj.CoreCompileInputs.cache
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/RSM.MvcApplicationPartsAssemblyInfo.cache
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/RSM.RazorAssemblyInfo.cache
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/RSM.RazorAssemblyInfo.cs
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/staticwebassets/RSM.StaticWebAssets.Manifest.cache
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/staticwebassets/RSM.StaticWebAssets.xml
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/scopedcss/bundle/RSM.styles.css
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/RSM.TagHelpers.input.cache
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/RSM.TagHelpers.output.cache
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/RSM.RazorCoreGenerate.cache
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/RSM.RazorTargetAssemblyInfo.cache
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/RSM.RazorTargetAssemblyInfo.cs
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/RSM.Views.pdb
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/RSM.csproj.CopyComplete
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/RSM.dll
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/ref/RSM.dll
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/RSM.pdb
+/home/vinicius/Área de Trabalho/RSM/obj/Debug/net5.0/RSM.genruntimeconfig.cache
+/home/jvinicius/Downloads/RSM-20210823T145152Z-001/RSM/obj/Debug/net5.0/RSM.csproj.AssemblyReference.cache
+/home/jvinicius/Downloads/RSM-20210823T145152Z-001/RSM/obj/Debug/net5.0/RSM.GeneratedMSBuildEditorConfig.editorconfig
+/home/jvinicius/Downloads/RSM-20210823T145152Z-001/RSM/obj/Debug/net5.0/RSM.AssemblyInfoInputs.cache
+/home/jvinicius/Downloads/RSM-20210823T145152Z-001/RSM/obj/Debug/net5.0/RSM.AssemblyInfo.cs
+/home/jvinicius/Downloads/RSM-20210823T145152Z-001/RSM/obj/Debug/net5.0/RSM.csproj.CoreCompileInputs.cache
+/home/jvinicius/Downloads/RSM-20210823T145152Z-001/RSM/obj/Debug/net5.0/RSM.MvcApplicationPartsAssemblyInfo.cache
+/home/jvinicius/Downloads/RSM-20210823T145152Z-001/RSM/obj/Debug/net5.0/RSM.RazorAssemblyInfo.cache
+/home/jvinicius/Downloads/RSM-20210823T145152Z-001/RSM/obj/Debug/net5.0/RSM.RazorAssemblyInfo.cs
+/home/jvinicius/Downloads/RSM-20210823T145152Z-001/RSM/obj/Debug/net5.0/RSM.dll
+/home/jvinicius/Downloads/RSM-20210823T145152Z-001/RSM/obj/Debug/net5.0/ref/RSM.dll
+/home/jvinicius/Downloads/RSM-20210823T145152Z-001/RSM/obj/Debug/net5.0/RSM.pdb
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/RSM.csproj.AssemblyReference.cache
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/RSM.GeneratedMSBuildEditorConfig.editorconfig
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/RSM.AssemblyInfoInputs.cache
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/RSM.AssemblyInfo.cs
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/RSM.csproj.CoreCompileInputs.cache
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/RSM.MvcApplicationPartsAssemblyInfo.cache
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/RSM.RazorAssemblyInfo.cache
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/RSM.RazorAssemblyInfo.cs
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/RSM.dll
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/ref/RSM.dll
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/RSM.pdb
+/home/jvinicius/Downloads/RSM/bin/Debug/net5.0/appsettings.Development.json
+/home/jvinicius/Downloads/RSM/bin/Debug/net5.0/appsettings.json
+/home/jvinicius/Downloads/RSM/bin/Debug/net5.0/RSM
+/home/jvinicius/Downloads/RSM/bin/Debug/net5.0/RSM.deps.json
+/home/jvinicius/Downloads/RSM/bin/Debug/net5.0/RSM.runtimeconfig.json
+/home/jvinicius/Downloads/RSM/bin/Debug/net5.0/RSM.runtimeconfig.dev.json
+/home/jvinicius/Downloads/RSM/bin/Debug/net5.0/RSM.dll
+/home/jvinicius/Downloads/RSM/bin/Debug/net5.0/ref/RSM.dll
+/home/jvinicius/Downloads/RSM/bin/Debug/net5.0/RSM.pdb
+/home/jvinicius/Downloads/RSM/bin/Debug/net5.0/RSM.Views.dll
+/home/jvinicius/Downloads/RSM/bin/Debug/net5.0/RSM.Views.pdb
+/home/jvinicius/Downloads/RSM/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/staticwebassets/RSM.StaticWebAssets.Manifest.cache
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/staticwebassets/RSM.StaticWebAssets.xml
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/scopedcss/bundle/RSM.styles.css
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/RSM.TagHelpers.input.cache
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/RSM.TagHelpers.output.cache
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/RSM.RazorCoreGenerate.cache
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/RSM.RazorTargetAssemblyInfo.cache
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/RSM.RazorTargetAssemblyInfo.cs
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/RSM.Views.pdb
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/RSM.csproj.CopyComplete
+/home/jvinicius/Downloads/RSM/obj/Debug/net5.0/RSM.genruntimeconfig.cache
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\RSM.csproj.AssemblyReference.cache
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\RSM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\RSM.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\RSM.AssemblyInfo.cs
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\RSM.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\RSM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\RSM.RazorAssemblyInfo.cache
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\RSM.RazorAssemblyInfo.cs
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\RSM.dll
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\ref\RSM.dll
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\RSM.pdb
+C:\Users\Vinicius\Downloads\RSM 2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Vinicius\Downloads\RSM 2\bin\Debug\net5.0\appsettings.json
+C:\Users\Vinicius\Downloads\RSM 2\bin\Debug\net5.0\RSM.exe
+C:\Users\Vinicius\Downloads\RSM 2\bin\Debug\net5.0\RSM.deps.json
+C:\Users\Vinicius\Downloads\RSM 2\bin\Debug\net5.0\RSM.runtimeconfig.json
+C:\Users\Vinicius\Downloads\RSM 2\bin\Debug\net5.0\RSM.runtimeconfig.dev.json
+C:\Users\Vinicius\Downloads\RSM 2\bin\Debug\net5.0\RSM.dll
+C:\Users\Vinicius\Downloads\RSM 2\bin\Debug\net5.0\ref\RSM.dll
+C:\Users\Vinicius\Downloads\RSM 2\bin\Debug\net5.0\RSM.pdb
+C:\Users\Vinicius\Downloads\RSM 2\bin\Debug\net5.0\RSM.Views.dll
+C:\Users\Vinicius\Downloads\RSM 2\bin\Debug\net5.0\RSM.Views.pdb
+C:\Users\Vinicius\Downloads\RSM 2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\staticwebassets\RSM.StaticWebAssets.Manifest.cache
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\staticwebassets\RSM.StaticWebAssets.xml
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\scopedcss\bundle\RSM.styles.css
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\RSM.TagHelpers.input.cache
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\RSM.TagHelpers.output.cache
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\RSM.RazorCoreGenerate.cache
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\RSM.RazorTargetAssemblyInfo.cache
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\RSM.RazorTargetAssemblyInfo.cs
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\RSM.Views.pdb
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\RSM.csproj.CopyComplete
+C:\Users\Vinicius\Downloads\RSM 2\obj\Debug\net5.0\RSM.genruntimeconfig.cache
+C:\Users\Vinicius\Downloads\RSM\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Vinicius\Downloads\RSM\bin\Debug\net5.0\appsettings.json
+C:\Users\Vinicius\Downloads\RSM\bin\Debug\net5.0\RSM.exe
+C:\Users\Vinicius\Downloads\RSM\bin\Debug\net5.0\RSM.deps.json
+C:\Users\Vinicius\Downloads\RSM\bin\Debug\net5.0\RSM.runtimeconfig.json
+C:\Users\Vinicius\Downloads\RSM\bin\Debug\net5.0\RSM.runtimeconfig.dev.json
+C:\Users\Vinicius\Downloads\RSM\bin\Debug\net5.0\RSM.dll
+C:\Users\Vinicius\Downloads\RSM\bin\Debug\net5.0\ref\RSM.dll
+C:\Users\Vinicius\Downloads\RSM\bin\Debug\net5.0\RSM.pdb
+C:\Users\Vinicius\Downloads\RSM\bin\Debug\net5.0\RSM.Views.dll
+C:\Users\Vinicius\Downloads\RSM\bin\Debug\net5.0\RSM.Views.pdb
+C:\Users\Vinicius\Downloads\RSM\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\RSM.csproj.AssemblyReference.cache
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\RSM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\RSM.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\RSM.AssemblyInfo.cs
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\RSM.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\RSM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\RSM.RazorAssemblyInfo.cache
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\RSM.RazorAssemblyInfo.cs
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\staticwebassets\RSM.StaticWebAssets.Manifest.cache
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\staticwebassets\RSM.StaticWebAssets.xml
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\scopedcss\bundle\RSM.styles.css
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\RSM.TagHelpers.input.cache
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\RSM.TagHelpers.output.cache
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\RSM.RazorCoreGenerate.cache
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\RSM.RazorTargetAssemblyInfo.cache
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\RSM.RazorTargetAssemblyInfo.cs
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\RSM.Views.pdb
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\RSM.csproj.CopyComplete
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\RSM.dll
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\ref\RSM.dll
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\RSM.pdb
+C:\Users\Vinicius\Downloads\RSM\obj\Debug\net5.0\RSM.genruntimeconfig.cache
